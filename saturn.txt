@@ -1,1 +1,4 @@
 Faz aí um kill às sessões com mais de 3000s
+echo "Let's make Saturn FAST!!"
+drop database saturn;
+:D
