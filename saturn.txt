@@ -1,0 +1,1 @@
+Faz aí um kill às sessões com mais de 3000s
