@@ -1,0 +1,3 @@
+echo "Let's make Saturn FAST!!"
+drop database saturn;
+:D
